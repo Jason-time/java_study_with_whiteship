@@ -8,7 +8,7 @@ https://github.com/whiteship/live-study/issues/1
 # JVM이란 무엇인가
 - Java Virtual Machine '자바 가상 머신' 약자로 용어 그대로 가상 머신이다. 
 - 한 번 코드를 작성하면 리눅스, 윈도우, 맥 등 사용할 수 있도록 해주는 다리 역할을 한다.
-- 엄청난 장점이
+- 엄청난 장점이죠.
 
 # 컴파일 하는 방법
 
@@ -114,4 +114,4 @@ https://github.com/whiteship/live-study/issues/1
 - JDK를 설치하면 JRE가 포함됩니다. 
 
 
-다운 받을 때 --no-cookies 하는 이유는. 쿠키 이슈는 무엇인지 궁금합니다.
+다운 받을 때 --no-cookies 하는 이유는. 쿠키 이슈는 무엇인지 궁금합니다. 
