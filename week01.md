@@ -15,7 +15,7 @@ https://github.com/whiteship/live-study/issues/1
 - 컴파일이란 .java 파일을 .class 파일로 만드는 것입니다.
 
 		javac 파일이름.java  // 이 명령어로 컴파일 할 수 있다.
-- 컴퓨터가 이해할 수 있는 바이트코드를 만드는 것입니다.
+- 아직 컴퓨터가 읽을 수 없지만, JVM을 통해 컴퓨터가 이해할 수 있습니다. 
 
 ## 리눅스에서 컴파일하기 
 - 먼저 설치하자.
@@ -114,4 +114,4 @@ https://github.com/whiteship/live-study/issues/1
 - JDK를 설치하면 JRE가 포함됩니다. 
 
 
-다운 받을 때 --no-cookies 하는 이유는. 쿠키 이슈는 무엇인지 궁금합니다. 
+다운 받을 때 --no-cookies 하는 이유는. 쿠키 이슈는 무엇인지 궁금합니다.
