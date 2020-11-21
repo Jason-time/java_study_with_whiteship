@@ -160,13 +160,13 @@
 		
 - 지역변수가 아니면 작동 안함. 
 
-	public var = "hello"; // 허용안함.
+		public var = "hello"; // 허용안함.
 	
 - 람다식은 대상형이 필요해서 형추론사용할 수 없다. (아직 잘 모르겠음)
 - 배열은 명시적 형 선언이 필요함. 
 
 		var arr = {1,2,3} ; // 배열은 안됨.
-
+- - -
 > 참조 : https://velog.io/@ggob_2/java-study-2
 
 > 타입추론 참조 : http://me2.do/F3IncgH2
